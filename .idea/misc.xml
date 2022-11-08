@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jackson.moreno/.gradle/caches/transforms-3/9c63ff18823d2f2b75538a48d60598a9/transformed/whynotimagecarousel-1.2.1/res/layout/item_carousel.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/jackson.moreno/.gradle/caches/transforms-3/9c63ff18823d2f2b75538a48d60598a9/transformed/whynotimagecarousel-1.2.1/res/layout/next_button_layout.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/jackson.moreno/.gradle/caches/transforms-3/9c63ff18823d2f2b75538a48d60598a9/transformed/whynotimagecarousel-1.2.1/res/layout/previous_button_layout.xml" value="0.18802083333333333" />
+        <entry key="..\:/android/AppCarousel/app/src/main/res/layout/activity_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
